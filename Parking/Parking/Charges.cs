@@ -25,7 +25,7 @@ namespace Parking
             }
             else
             {
-                total = 6 + (time - 3) * (min_charge + additional);
+                total = (min_charge + additional) * (time - 3) + 6;
             }
 
             if (total > max_charge || time == max_time)
