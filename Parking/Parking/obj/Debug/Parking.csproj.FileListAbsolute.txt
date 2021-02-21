@@ -1,0 +1,12 @@
+/Users/zoeharris/School/S4/programming/Parking/Parking/obj/Debug/Parking.csprojAssemblyReference.cache
+/Users/zoeharris/School/S4/programming/Parking/Parking/obj/Debug/Parking.csproj.CoreCompileInputs.cache
+/Users/zoeharris/School/S4/programming/Parking/Parking/bin/Debug/Parking.exe
+/Users/zoeharris/School/S4/programming/Parking/Parking/bin/Debug/Parking.pdb
+/Users/zoeharris/School/S4/programming/Parking/Parking/obj/Debug/Parking.exe
+/Users/zoeharris/School/S4/programming/Parking/Parking/obj/Debug/Parking.pdb
+/Users/zoeharris/School/S4/OOP/Parking/Parking/Parking/bin/Debug/Parking.exe
+/Users/zoeharris/School/S4/OOP/Parking/Parking/Parking/bin/Debug/Parking.pdb
+/Users/zoeharris/School/S4/OOP/Parking/Parking/Parking/obj/Debug/Parking.csprojAssemblyReference.cache
+/Users/zoeharris/School/S4/OOP/Parking/Parking/Parking/obj/Debug/Parking.csproj.CoreCompileInputs.cache
+/Users/zoeharris/School/S4/OOP/Parking/Parking/Parking/obj/Debug/Parking.exe
+/Users/zoeharris/School/S4/OOP/Parking/Parking/Parking/obj/Debug/Parking.pdb
